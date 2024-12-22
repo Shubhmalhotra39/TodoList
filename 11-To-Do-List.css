@@ -11,12 +11,9 @@ body{
 }
 .todo-input-grid{
     margin-bottom:10px ;
-    
+    padding-left: 50px;
 }
-.name-input{
-    font-size: 15px;
-    padding: 8px;
-}
+.name-input,
 .dueDate-input{
     font-size: 15px;
     padding: 6px;
@@ -27,7 +24,7 @@ body{
     border: none;
     font-size: 15px;
     cursor: pointer;
-    padding: 9px;
+    
 }
 .delete-todo-button{
     background-color: darkred;
